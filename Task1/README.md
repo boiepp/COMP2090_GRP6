@@ -14,7 +14,7 @@ A Python-based library management system using OOP concepts including encapsulat
    python main.py
 3. No external packages required
 
-git clone https://github.com/boiepp/COMP2090_GRP6.git
+git clone https://github.com/boiepp/COMP2090_GRPROJ_6.git
 
 ## Default Login Credentials
 ### Borrower Login
